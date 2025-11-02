@@ -3,9 +3,6 @@
 
 *Este projeto faz parte do programa DEVstart*
 
-  
-  
-
 ## Sistema de Análise de Atletas
 
   
@@ -139,6 +136,7 @@ const atleta2 = new Atleta("João da Silva", 15, 55, 1.75,[8.9, 8.5, 10, 10, 9])
 atleta1.exibirInformacoes()
 atleta2.exibirInformacoes()
 ```
+
 **Melhorias Futuras**
 
 - Adicionar funcionalidade de ranking
