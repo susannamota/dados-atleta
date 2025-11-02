@@ -78,11 +78,11 @@ class Atleta{
         console.log(`_________________________________`)
         console.log(`Nome: ${this.obtemNomeAtleta()}`);
         console.log(`Idade: ${this.obtemIdadeAtleta()}`);
+        console.log(`Categoria: ${this.obtemCategoria()}`);
         console.log(`Peso: ${this.obtemPesoAtleta()}`);
         console.log(`Altura: ${this.obtemAlturaAtleta()}`);
-        console.log(`Notas: ${this.obtemNotasAtleta().join(", ")}`);
-        console.log(`Categoria: ${this.obtemCategoria()}`);
         console.log(`IMC: ${this.obtemIMC()}`);
+        console.log(`Notas: ${this.obtemNotasAtleta().join(", ")}`);
         console.log(`Média válida: ${this.obtemMediaValida()} `);
 
     }
