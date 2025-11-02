@@ -1,6 +1,3 @@
-
-# dados-atleta
-
 *Este projeto faz parte do programa DEVstart*
 
 ## Sistema de Análise de Atletas
